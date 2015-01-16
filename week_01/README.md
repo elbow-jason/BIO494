@@ -70,3 +70,56 @@ Why do you look like your grandparents?
 + My grandparents were humans. So I look human.
 + Some traits are heritable. (Are passed down from the previous generation)
 + Inherit vulnerability to disease or genetic diseases.
+
+
+How did teosinte become corn?
+=============================
+
+(ours)
++ artificial selection
++ selective breeding
++ pick the traits the one desires and only use the seeds of the corn that show those traits the best.
+
+(others)
++ cross breeding from corn1 with corn2 to get corn1.5 ... apply artificial selection.
+
+
+#### Were corn's traits standing variation in teosinte? or are they novel mutations?
+
++ Some novel. Some not.
+
+#### Where do traits come from?
+
++ Cross Breeding
++ Inbreeding
++ Genetically Engineered
++ Cross Over (one word?)
++ Long Time
+
+(Reed Cartwright)
++ Transposons. Some jump out their place and insert in other places. Some are copied and inserted elsewhere. Some are dormant. Some are active.
+
+#### How is diversity maintained within a population and among populations?
+
++ Large population (copy numbers)
++ Discouraged inbreeding
++ Migration of suitable breeders
++ Mobility
++ Recombination during meosis.
++ Sexual Reproduction (vs Parthenogenesis)
++ Natural Selection
++ Non-allopatricity of population
+
+###### how do drift and natural selection (?)
+
++ different envs and different species fill different roles.
+
+
++ diruptive selection (eliminates medians for traits leaving only the extremes).
++ Adaptations
++ Mutations (restore genetic diversity)
++ Transposons
++ hidden genetic variation
+
+
+
