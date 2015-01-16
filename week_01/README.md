@@ -43,15 +43,22 @@ DEMO
 What is a genome?
 =================
 
+#### (ours)
+
 + information
 + all the genetic code of an organism
 + made of chromosomes, DNA, genes.
-+ Not the same for each organism. Not the same for each cell (necessarily).
++ Not the same for each organism.
++ Not the same for each cell necessarily (think somatic vs germ)
++ Not the same size for each organism.
++ Can be broken into parts.
 
+#### (other)
 
-
-
-
-
-
-
++ contains the genetic code of an organism.
++ complete set of DNA or RNA sequence from an organism. (RNA)
++ A, C, G, T, and U.
++ heritable and non-heritable. (Mules' and Somatic cells' genomes do not get passed on to the next generation.)
++ Contains coding and non-coding region.
++ In humans, lots (80%+) of DNA is non-coding.
++ Can be methylated or not.
