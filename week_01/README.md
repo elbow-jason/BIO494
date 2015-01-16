@@ -62,3 +62,11 @@ What is a genome?
 + Contains coding and non-coding region.
 + In humans, lots (80%+) of DNA is non-coding.
 + Can be methylated or not.
+
+
+Why do you look like your grandparents?
+=======================================
+
++ My grandparents were humans. So I look human.
++ Some traits are heritable. (Are passed down from the previous generation)
++ Inherit vulnerability to disease or genetic diseases.
