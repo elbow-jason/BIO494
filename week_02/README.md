@@ -1,6 +1,3 @@
-Week 2: Vagrant
-==========================
-
 Installing the Data Science Toolbox
  
 1) Install VirtualBox: https://www.virtualbox.org/wiki/Downloads
@@ -111,7 +108,7 @@ Workshop
 6. Scripts
 7. Searching for things
 
-+ machins name and then path ~ and $ represent the prompt
++ machins name [  ] and then path ~ and $ represent the prompt
 + install virtualbox and vagrant
 
 + virtual box has images just like on a machine; vagrant is a wrapper to run those images
@@ -127,3 +124,60 @@ Workshop
 + mac or linux users do $ vagrant ssh
 
 
+Why do we use the command line?
+===============================
+
+The reason we use the command line is... very efficient analysis pipelines 
+and it allows us to quickly do a lot of programs that you can’t do manually with a mouse.
+
+### Getting started
+Working on the shell means typing the names of programs, which produce ouputs that are eitehr printed to screen or passed on to other programs. Some basic programs include
+
++ $ clear is the command to clear the screen
++ we have scroll bar on the right side
++ linux has different formats of shell (Bash, cshell(csh) )
++ Bash is most common,  has some "extras" that make very powerful
++ how do you know what shell you are in
++ $ echo $SHELL
++ $ whoami  tells your username; is a program that shell found
++ $ pwd  is print working directory. Where you work at
+
+Navigating around the file system
+
++ short hand for home directory is tilda
++ cd ~   to get home or cd   alone
++ ls gives you the contents of your directory
++ /etc is "etsee" not "et cetera"
++ /home/user  is an absolute directory because it starts with a / (root dir)
++ "relative paths" have no leading '/', path is taken to start from current dir
+ (so, from /home/user cd Music and cd /home/user/Music are equiv.)
++ cd .. (double dots) goes to the parent directory / goes up one level
++ single dot refers to current directory and is invoked $ cd ./somedirectory
+You can add "arguments" or "options" to programs to change their behaviour, for istance
++ ls -F (ls with option F) gives you file/  if you dont see them in different color
+ (see $ ls --help or man ls for more info)
++ in Linux path and directories are case sensitive
++ $ man ls   you can see manual for ls
++ any files starts with a dot will be ignored (e.g. ., .., .hiddenfile)
++ an arg is passed to a function; a parameter is what the arg is called inside the function
++ ls stands for 'list'
++ ls -F -a also shows the previous directory
++ root's parent is root. Long Live the root.
++ $ less takes us to the content of the file
+
+Making files, getting rid of them and moving them around
+
++ $ mkdir (make directory) makes a new directory
++ $ touch  creat an empty file (can later add text or other data)
++ $ nano is a command line text editor ,
++ $ in nano, ctrl+k cuts a line and ctrl+u to paste the cut line <-how to repeat a line?
+  wiki documentation for nano: https://wiki.gentoo.org/wiki/Nano/Basics_Guide
+  Other command line editors: vi(m) and emacs (pick a side: http://en.wikipedia.org/wiki/Editor_war), and GUI driven text editors good too, Atom, gvim, gedit, notepad++ (on windows) pick sublimetext.
++ rm remove the file (be careful with that; it's permanent)
++ be very, very careful with rm -r  <-- it recursively the deletes the files below.
++ mv file destination
++ mv file  ..   takes it to 2d upper dir
++ cp copies files
++ you can mv and replace at the same time  $ mv ../flie ./file
++ ls -R recursively lists directory contents.
++ cp multiple file to one file     $ cp file file file destination
