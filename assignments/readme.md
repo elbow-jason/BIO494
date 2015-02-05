@@ -8,6 +8,7 @@ scripts via the ```$ ./script.sh ``` notation
 
 + gff file retrieved with ```$ curl -O http://downloads.yeastgenome.org/curation/chromosomal_feature/saccharomyces_cerevisiae.gff```
 + Both 400 and 500 level assignments done
++ Note: the first sort in the 500 level assignment is not necessary
 
 ##### Assignment 2: 
 
