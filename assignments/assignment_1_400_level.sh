@@ -75,12 +75,8 @@ fi
 filename=$1
 
 echo -n "The number of genes in $filename is "
-
 cat $filename |
-
 grep -v '^#' |
-
 cut -f3 |
 grep gene |
-
 wc -l
