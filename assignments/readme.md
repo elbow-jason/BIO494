@@ -6,8 +6,7 @@ scripts via the ```$ ./script.sh ``` notation
 
 ##### Assignment 1:
 
-+ gff file retrieved with ```$ curl -O http://downloads.
-yeastgenome.org/curation/chromosomal\_feature/saccharomyces\_cerevisiae.gff```
++ gff file retrieved with ```$ curl -O http://downloads.yeastgenome.org/curation/chromosomal_feature/saccharomyces_cerevisiae.gff```
 + Both 400 and 500 level assignments done
 
 ##### Assignment 2: 
