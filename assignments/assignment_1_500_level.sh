@@ -126,4 +126,3 @@ uniq -c |
 sort -k1,1nr |
 awk '{print $2 "\t" $1}' |
 sed -e 's/^chr//'
-
